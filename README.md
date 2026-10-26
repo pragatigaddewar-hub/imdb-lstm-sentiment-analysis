@@ -76,4 +76,4 @@ Python, TensorFlow/Keras, NumPy, scikit-learn, Matplotlib
 
 ## Author
 
-`<Your Name>` | `<GitHub / LinkedIn link>`
+`Pragati Gaddewar` | `<GitHub / LinkedIn link>`
